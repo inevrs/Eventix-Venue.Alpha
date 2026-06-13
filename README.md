@@ -16,7 +16,7 @@ Eventix is a modern, geometric, Airbnb-inspired Event Management System built wi
 
 1. Clone this repository into your local web server (e.g., `htdocs` for XAMPP).
 2. Create a database named `eventix_db` in MySQL.
-3. Import the `eventix_db.sql` file to set up the schema and default data.
+3. Import the `database.sql` file to set up the schema and default data.
 4. Ensure the `uploads/venues/` and `uploads/profiles/` directories exist and are writable.
 
 ## Default Credentials
